@@ -1,6 +1,6 @@
 # Webhook Tools
 
-Foobar is a Python program which can spam one or multiple weebhooks on Discord.
+Webhook Tools is a Python program which can spam one or multiple weebhooks on Discord.
 
 ## Installation
 
