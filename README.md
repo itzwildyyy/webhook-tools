@@ -1,4 +1,4 @@
-# Webhook Tools
+# Webhook Tools - DISCONTINUED.
 
 ```bash
 Webhook Tools is a Python program which can spam one or multiple webhooks on Discord.
